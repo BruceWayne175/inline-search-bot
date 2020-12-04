@@ -12,8 +12,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Mahesh0253/Media-Search-bot",
-    "repository": "https://github.com/Mahesh0253/Media-Search-bot",
+    "website": "https://github.com/BruceWayne175/inline-search-bot.git",
+    "repository": "https://github.com/BruceWayne175/inline-search-bot.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
