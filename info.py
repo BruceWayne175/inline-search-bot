@@ -23,9 +23,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-
-
-🤟Welcome to the **Movie Hub SL🇱🇰**
+**🤟Welcome to the Movie Hub SL🇱🇰**
 
 ❤️𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ 𝕌𝕊𝕀ℕ𝔾 𝕆𝕌ℝ 𝔹𝕆𝕋❤️
 
@@ -36,6 +34,9 @@ START_MSG = """
 🧩 Search කිරීම සඳහා පහත සඳහන් "Search Here" බටනය ඔබන්න.👇
 
 
+
+
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'ඔයාලත් මේ BOT එකට Join වෙලා බලන්න👉 {username} ❤️ ඔයාලට මේකෙන් Movies & TV-Series ලබාගන්න පුලුවන් 😜❤️
+
