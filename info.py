@@ -23,9 +23,17 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**🤟Welcome to the Movie Hub SL🇱🇰**
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+❤️𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ 𝕌𝕊𝕀ℕ𝔾 𝕆𝕌ℝ 𝔹𝕆𝕋❤️
+
+🧿 ඔබට අවශ්‍ය දේ ලබාගැනීමට Buttons භාවිතා කරන්න.
+
+🔴 නැත්නම් Search කිරීමෙන්ද ලබා ගැනීමට හැකිය.
+
+🧩 Search කිරීම සඳහා පහත සඳහන් "Search Here" බටනය ඔබන්න.👇
+
+
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'ඔයාලත් මේ බොට් එකට සෙට් වෙලා බලන්න👉 {username} '
