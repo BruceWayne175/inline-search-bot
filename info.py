@@ -24,12 +24,6 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Messages
 START_MSG = """
 
-Hi,%firstname% 🤟👋
-
-**🤟Welcome to the Secret Society Bot🇱🇰**
-
-❤️𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ 𝕌𝕊𝕀ℕ𝔾 𝕆𝕌ℝ 𝔹𝕆𝕋❤️
-
 🧿 ඔබට අවශ්‍ය දේ ලබාගැනීමට Buttons භාවිතා කරන්න.
 
 🔴 නැත්නම් Search කිරීමෙන්ද ලබා ගැනීමට හැකිය.
