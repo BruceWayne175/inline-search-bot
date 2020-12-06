@@ -23,7 +23,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**🤟Welcome to the Movie Hub SL🇱🇰**
+
+Hi,%firstname%
+
+**🤟Welcome to the Secret Society Bot🇱🇰**
 
 ❤️𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ 𝕌𝕊𝕀ℕ𝔾 𝕆𝕌ℝ 𝔹𝕆𝕋❤️
 
@@ -36,4 +39,4 @@ START_MSG = """
 
 """
 
-SHARE_BUTTON_TEXT = 'ඔයාලත් මේ බොට් එකට සෙට් වෙලා බලන්න👉 {username} ❤️ ඔයාලට මේ බොට්ගෙන් චිත්‍රපට සහ රූපවාහිනී කතාමාලා ලබාගන්න පුලුවන් 😜❤️'
+SHARE_BUTTON_TEXT = 'ඔයාලත් මේ බොට් එකට සෙට් වෙලා බලන්න👉 {username} ❤️ ඔයාලට මේ බොට්ගෙන් config files/SSH accounts/mod apps/ ලබාගන්න පුලුවන් 😜❤️'
